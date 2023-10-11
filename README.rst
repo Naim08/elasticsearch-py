@@ -1,4 +1,5 @@
-.. raw:: html
+..
+   raw:: html
 
    <img align="right" width="auto" height="auto" src="https://www.elastic.co/static-res/images/elastic-logo-200.png">
 
@@ -42,25 +43,25 @@ Features
 Installation
 ------------
 
-Refer to the `Installation section <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_installation>`_ 
+Refer to the `Installation section <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_installation>`_
 of the getting started documentation.
 
 
 Connecting
 ----------
 
-Refer to the `Connecting section <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_connecting>`_ 
+Refer to the `Connecting section <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_connecting>`_
 of the getting started documentation.
 
 
 Usage
 -----
 
-* `Creating an index <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_creating_an_index>`_ 
+* `Creating an index <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_creating_an_index>`_
 * `Indexing a document <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_indexing_documents>`_
 * `Getting documents <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_getting_documents>`_
 * `Searching documents <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_searching_documents>`_
-* `Updating documents <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_updating_documents>`_ 
+* `Updating documents <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_updating_documents>`_
 * `Deleting documents <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_deleting_documents>`_
 * `Deleting an index <https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html#_deleting_an_index>`_
 
